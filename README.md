@@ -19,5 +19,5 @@ POSITION: 팀장
 
 스케줄 관리 기능, 구인게시판, 후기글 기능, 검색 기능, 페이징 처리, 로그인 기능, 채팅 기능, 회원가입, 마이페이지
 
-##Portfolio link
+## Portfolio link
 https://zljon.github.io/
