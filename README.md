@@ -25,4 +25,4 @@ https://zljon.github.io/
 --------------------------------------------------------------------------------------------------------
 # 그외
 현재 컴퓨터 비전에 관심을 갖고 학습 중입니다.
-https://github.com/ZlJon/Study-Computer-Vision
+- https://github.com/ZlJon/Study-Computer-Vision
